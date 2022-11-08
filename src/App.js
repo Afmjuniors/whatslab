@@ -17,7 +17,6 @@ const onChangeSender = (e)=>{
   setCurrSender(e.target.value) 
 }
 
-
   return (
 
 
